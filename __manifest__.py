@@ -10,6 +10,7 @@
     'description': """
 This is a full-featured calendar system.
 ========================================
+este es un repositorio actualizado 
 
 It supports:
 ------------
